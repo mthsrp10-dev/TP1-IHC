@@ -224,26 +224,6 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
 |---|---|---|---|---|
-| T1 — Mapa e detalhes do voo | 30 segundos | ! | 2 | Concluiu com algumas dificuldades, principalmente por conta dos anúncios. |
-| T2 — Detalhes do voo | 44 segundos | ! | 1 | Concluiu com dificuldades, principalmente ao ler os valores da velocidade e altitude |
-| T3 — Chegadas de um aeroporto | 52 segundos | ✗ | 3 | Não concluiu a tarefa devidamente, a participante não conseguiu localizar voos indo para Manaus no dia de hoje |
-| T4 — Localizar um voo | 48 segundos | ✓ | 0 | A participante concluiu sem dificuldades, procurando diretamente na barra de pesquisa e encontrando o avião |
-| T5 — Horário e status do voo | 48 segundos | ✓ | 0 | A participante concluiu sem dificuldades,verificando os status gerais do voo. |
-| T7 — Rota percorrida | 31 segundos | ✓ | 0 | A participante concluiu a tarefa com êxito |
-| T6 — Filtrar por companhia | 52 segundos | ✗ | 2 | A participante não consegue encontrar a opção de filtrar apenas companhias aéreas específicas, e desiste da tarefa no meio do trajeto
-
- |
-| T8 — Marcar e reencontrar um voo | 42 segundos | ! | 1 | A participante não encontrou a opção para guardar o avião, e concluiu a tarefa da maneira que achou melhor.
-
- |
-
-*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
-
-
-**Participante P05**
-
-| Tarefa | Tempo (s) | Resultado | Erros | Observações |
-|---|---|---|---|---|
 | T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
 | T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
 | T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
@@ -252,6 +232,24 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 | T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
 | T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
 | T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+
+ 
+*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
+
+
+**Participante P05**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---|---|---|---|
+| T1 — Mapa e detalhes do voo | 30 segundos | ! | 2 | Concluiu com algumas dificuldades, principalmente por conta dos anúncios. |
+| T2 — Detalhes do voo | 44 segundos | ! | 1 | Concluiu com dificuldades, principalmente ao ler os valores da velocidade e altitude |
+| T3 — Chegadas de um aeroporto | 52 segundos | ✗ | 3 | Não concluiu a tarefa devidamente, a participante não conseguiu localizar voos indo para Manaus no dia de hoje |
+| T4 — Localizar um voo | 48 segundos | ✓ | 0 | A participante concluiu sem dificuldades, procurando diretamente na barra de pesquisa e encontrando o avião |
+| T5 — Horário e status do voo | 48 segundos | ✓ | 0 | A participante concluiu sem dificuldades,verificando os status gerais do voo. |
+| T7 — Rota percorrida | 31 segundos | ✓ | 0 | A participante concluiu a tarefa com êxito |
+| T6 — Filtrar por companhia | 52 segundos | ✗ | 2 | A participante não consegue encontrar a opção de filtrar apenas companhias aéreas específicas, e desiste da tarefa no meio do trajeto |
+| T8 — Marcar e reencontrar um voo | 42 segundos | ! | 1 | A participante não encontrou a opção para guardar o avião, e concluiu a tarefa da maneira que achou melhor.|
+
 
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
@@ -260,14 +258,14 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
 |---|---|---|---|---|
-| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T1 — Mapa e detalhes do voo | 11 segundos | ✓ | 0 | O participante concluiu a tarefa com êxito, sem demonstrar dificuldades. |
+| T2 — Detalhes do voo | 17 segundos | ✓ | 0 | Concluiu devidamente, sem ter quaisquer problemas. |
+| T3 — Chegadas de um aeroporto | 22 segundos | ✓ | 0 | Concluiu com êxito, sem dificuldades. |
+| T4 — Localizar um voo | 36 segundos | ✓ | 0 | O participante entendeu a tarefa e a concluiu sem dificuldades. |
+| T5 — Horário e status do voo | 36 | ✓ | 0 | O participante não encontrou dificuldades ao realizar a tarefa. |
+| T7 — Rota percorrida | 38 | ✓ | 0 | O participante concluiu sem dificuldades. |
+| T6 — Filtrar por companhia | 32 segundos | ✓ | 0 | O participante compreendeu e concluiu a tarefa com êxito |
+| T8 — Marcar e reencontrar um voo | 71 segundos | ✗ | 3 | O participante não concluiu a tarefa devido a um impedimento do próprio sistema. |
 
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
@@ -276,14 +274,14 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
 |---|---|---|---|---|
-| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T1 — Mapa e detalhes do voo | 55 segundos | ! | 1 | A participante concluiu a tarefa com dificuldades por causa do alto travamento do site. |
+| T2 — Detalhes do voo | 63 segundos | ! | 2 | Concluiu com dificuldades, por conta do alto travamento do site e de anúncios aparecendo repentinamente na tela. |
+| T3 — Chegadas de um aeroporto | 128 segundos | ✓ | 0 | Concluiu com êxito, sem dificuldades.  |
+| T4 — Localizar um voo | 57 segundos | ! | 1 | A participante concluiu a tarefa com uma dificuldade, ao apertar em um espaço vazio e sair da tela que estava fazendo a tarefa. |
+| T5 — Horário e status do voo | 57 segundos | ! | 1 | A participante concluiu a tarefa com dificuldades, tendo problemas para executar a tarefa por quanta da quantidade de espaços vazios. |
+| T7 — Rota percorrida | 105 segundos | ✗ | 2 | A participante não conseguiu concluir a tarefa, não achando a opção de visualizar o trajeto do voo. |
+| T6 — Filtrar por companhia | 85 segundos | ! | 1 | A participante não achou a opção de filtrar os voos no mapa, apenas em uma área específica, assim concluindo a tarefa do jeito que ela bem entendeu. |
+| T8 — Marcar e reencontrar um voo | 120 segundos | ✗ | 3 | A participante não conseguiu concluir a tarefa, desistindo dela no meio do progresso. |
 
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
