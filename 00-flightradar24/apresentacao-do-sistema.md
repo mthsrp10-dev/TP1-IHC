@@ -110,6 +110,6 @@ O Flightradar24 possui muitas funcionalidades, e nem todas foram avaliadas. Para
 
 ## Considerações
 
-O Flightradar24 foi escolhido por que o sistema é interessante para as quatro avaliações, por que pode ser considerado um sistema não convencional, por que é viável para o teste com usuários e para a inspeção de acessibilidade. Com o sistema e o escopo apresentados, as próximas seções documentam as avaliações realizadas: inspeção e teste de usabilidade, avaliação de experiência de uso, inspeção de acessibilidade e avaliação de comunicabilidade.
+O Flightradar24 foi escolhido porque o sistema é interessante para as quatro avaliações, por que pode ser considerado um sistema não convencional, por que é viável para o teste com usuários e para a inspeção de acessibilidade. Com o sistema e o escopo apresentados, as próximas seções documentam as avaliações realizadas: inspeção e teste de usabilidade, avaliação de experiência de uso, inspeção de acessibilidade e avaliação de comunicabilidade.
 
 **Navegação:** [Voltar ao README](../README.md) · [Avaliação de usabilidade](../01-avaliacao-usabilidade/1-inspecao.md)
