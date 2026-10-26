@@ -187,6 +187,118 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
+
+**Participante P02**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---|---|---|---|
+| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+
+*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
+
+
+**Participante P03**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---|---|---|---|
+| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+
+*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
+
+
+**Participante P04**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---|---|---|---|
+| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+
+*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
+
+
+**Participante P05**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---|---|---|---|
+| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+
+*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
+
+
+**Participante P06**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---|---|---|---|
+| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+
+*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
+
+
+**Participante P07**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---|---|---|---|
+| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+
+*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
+
+
+**Participante P08**
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---|---|---|---|
+| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T7 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T6 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+
+*Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
+
 *[Repetir a tabela para P02 a P08 e explicar brevemente o que ela mostra.]*
 
 ### Resumo por participante
