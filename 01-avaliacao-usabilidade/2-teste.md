@@ -215,9 +215,42 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 ### Respostas abertas e fatores de usabilidade
 
-| Participante | Pergunta | Resposta (texto original) | Fator de usabilidade |
-|---|---|---|---|
-| P01 | [ ] | [ ] | [eficácia, eficiência, facilidade de aprendizado, satisfação ou compreensão] |
+Esta seção reúne as respostas das cinco perguntas abertas do questionário pós-teste, no texto original, e liga cada uma a um fator de usabilidade. Como o enunciado não define os fatores, a equipe adotou os da ISO 9241-11 e de Nielsen (eficácia, eficiência, facilidade de aprendizado e satisfação) e acrescentou dois que apareceram com força nas respostas: **compreensão** (idioma e termos técnicos) e **organização da interface** (excesso de informações). Uma mesma resposta pode tratar de mais de um fator.
+
+**Legenda das perguntas:** 1 — experiência geral · 2 — o que foi mais fácil ou agradável · 3 — o que foi mais difícil ou confuso · 4 — termo, sigla ou informação que não entendeu · 5 — o que mudaria ou sugeriria.
+
+A tabela traz as respostas mais representativas. Trechos longos foram abreviados com [...], e a grafia original foi mantida.
+
+| Participante | Pergunta | Resposta () || Fator de usabilidade |
+|---|---|---|---|---|
+| P01 | 1 | "Intermediária" | | Satisfação |
+| P02 | 1 | "bem travadinho, achei cheio de informações também" || Eficiência (desempenho); organização da interface |
+| P04 | 1 | "Muito difícil" | | Facilidade de aprendizado |
+| P05 | 1 | "Confusa,site em inglês desafia o entendimento" || Compreensão (idioma) |
+| P06 | 1 | "Daria nota 6, ele poderia ser mais intuitivo, ter uma janela que desse opções ao clicar em cada avião, mas de forma mais objetiva. Há a limitação de idioma que pode ser consertada usando o navegador, [...]" | | Satisfação; facilidade de aprendizado; compreensão (idioma) |
+| P07 | 1 | "boa porém um pouco complicada" || Satisfação; facilidade de aprendizado |
+| P08 | 1 | "O site é bem interessante, porém, devido a grande quantidade de informações, sua utilização acaba se tornando confusa" || Satisfação; organização da interface |
+| P03 | 2 | "Pesquisar os vôos" || Facilidade de aprendizado |
+| P04 | 2 | "Clicar nos aviões e ver de onde vieram e pra onde iam" || Facilidade de aprendizado |
+| P06 | 2 | "O que pareceu mais fácil foi saber de onde o avião saiu" || Facilidade de aprendizado |
+| P08 | 2 | "Buscar voos específicos através do seu número na barra de pesquisa" | | Facilidade de aprendizado |
+| P01 | 3 | "Ver os avião que estão chegando em Manaus" | | Eficácia |
+| P02 | 3 | "achar em qual altitude e velocidade o avião selecionado estava" | | Eficácia |
+| P03 | 3 | "Saber em quais lugares o avião já passou" || Eficácia |
+| P04 | 3 | "Em geral, tinha sempre uma dificuldade em cada atividade, visto que o site tinha muita coisa e estava em inglês" || Eficácia; organização da interface; compreensão (idioma) |
+| P05 | 3 | "Pesquisar a companhia aérea" || Eficácia |
+| P06 | 3 | "Saber quais aviões vem e vão de cada aeroporto" || Eficácia |
+| P07 | 3 | "guardar o voo" | | Eficácia |
+| P08 | 3 | "Buscar informações como altitude e velocidade, identificar uma companhia área em específico" || Eficácia |
+| P05 | 4 | "Vários.ex : scheduled,barômetro alt,ground speed" || Compreensão (termos técnicos e idioma) |
+| P06 | 4 | "Estar em inglês atrapalhou um pouco, no geral a parte de termos foi até mais tranquilo." || Compreensão (idioma) |
+| P08 | 4 | "O site apresenta alguns termos técnicos relacionados à aviação que dificultam a compreensão. Nao lembro de um termo específico." || Compreensão (termos técnicos) |
+| P01 | 5 | "Menos poluição com pop-ups" || Organização da interface |
+| P04 | 5 | "[...] acho que tiraria o tanto de coisa que tem na interface do site, além de colocar melhor a distribuição de controles para o usuário poder ter uma melhor navegação nele [...]" | | Organização da interface |
+| P05 | 5 | "Site em pt-br" || Compreensão (idioma) |
+| P06 | 5 | "opção para outros idiomas, ter uma busca mais sensível, deixar opções mais buscadas de forma mais exposta." || Compreensão (idioma); eficiência |
+| P07 | 5 | "um tutorial de como navegar pelo site sem dificuldades" || Facilidade de aprendizado |
+| P08 | 5 | "[...] Sugiro tornar a organização mais simples, que permita ocultar informações que nao necessárias ou de interesse pessoal. Também sugiro que deixe uma linguagem mais simples e acessível para todos os públicos." || Organização da interface; compreensão |
 
 *[Explicar o que a tabela apresenta e destacar os fatores que mais apareceram. A análise qualitativa completa, com os códigos e as redes do ATLAS.ti, está em [experiencia-de-uso.md](../02-avaliacao-ux/experiencia-de-uso.md).]*
 
