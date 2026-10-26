@@ -103,7 +103,7 @@ O Flightradar24 possui muitas funcionalidades, e nem todas foram avaliadas. Para
 **Limitações conhecidas:**
 
 - Os participantes realizaram as sessões em **Itacoatiara-AM**, e algumas tarefas usam o aeroporto de Manaus como cenário, por ser um contexto regional conhecido. (Todos os participantes conhecem o mesmo).
-- Variação das informações em tempo real: Considerando que o Flightradar24 apresenta informações atualizadas em tempo real, os resultados podem variar entre as sessões. As avaliações foram realizadas no dia 24 de novembro de 2026, no período das 10h às 15h, estando sujeitas às alterações naturais dos dados apresentados pelo sistema.
+- Variação das informações em tempo real: Considerando que o Flightradar24 apresenta informações atualizadas em tempo real, os resultados podem variar entre as sessões. As avaliações foram realizadas no dia 24 de novembro de 2026, no período das 00h às 15h, estando sujeitas às alterações naturais dos dados apresentados pelo sistema.
 - Limitações técnicas: Durante as sessões, foram identificadas limitações relacionadas principalmente ao desempenho dos equipamentos utilizados pelos participantes e à qualidade da conexão com a internet. Esses fatores podem ter influenciado o tempo de resposta do sistema e a fluidez da interação, afetando potencialmente o desempenho dos usuários durante a execução das tarefas.
 
 ---
