@@ -67,10 +67,9 @@ As atividades foram escritas como objetivos que um usuário comum teria, **sem i
 | **Registro da sessão** | Tempo, resultado e erros por tarefa, anotados pela equipe | Planilha da equipe |
 | **Evidências** | Fotos dos participantes, com rostos desfocados ou ocultos | Pasta `imagens/` |
 
-Em vez do Maze, a equipe usou o Google Meet e o Google Forms, com autorização do professor. Os detalhes dessa configuração estão em [3-maze.md](3-maze.md).
+Em vez do Maze, a equipe usou o Google Meet e o Google Forms, com autorização do professor.
 
 **Questionário pós-teste, perguntas abertas:**
-
 | # | Pergunta |
 |---|---|
 | 1 | Como foi a sua experiência geral ao usar o site? |
