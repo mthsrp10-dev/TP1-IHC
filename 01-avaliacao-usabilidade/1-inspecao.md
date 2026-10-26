@@ -3,10 +3,10 @@
 ## Avaliação Heurística 
 
 ### Método Utilizado 
-A avaliação Heuristica é um método de inspeção de usabiliade utilizado na Engenharia de Usabilidade e na Experiência do Usuário (UX). desenvolvido por jakob Nielsen e Rolf Molich, ele consiste em pedir a um grupo de especialista que analisem uma interface e avaliem sua conformidade com princípios de usabilidade reconhecidos como heurística.
-É um método rápido e relativamente barato, pois não exige recrutamneto de usuários, laboratórios ou testes complexos. Permite descobrir uma grande variedade de falhas de usabilidade no ínicio do ciclo de desenvolvimento de um produto.
+A avaliação Heurística é um método de inspeção de usabiliade no qual especialistas em design e Ux examinam a interface de sistema (site, aplicativo ou software) com o objetivos de identificar problemas de interação. O método foi proposto por jakob Nielsen e Rolf Molich em 1990, é um método rápido e relativamente barato, pois não exige recrutamneto de usuários, laboratórios ou testes complexos. Permite descobrir uma grande variedade de falhas de usabilidade no ínicio do ciclo de desenvolvimento de um produto.
+
 ### Heurística de Nielsen
-As diretrizes mais famosas para essa avaliação são as 10 Herísticas de Usabilidade para Design de interface de Jakob Nielsen que estabelece quais partes da interface serão avaliadas e os objetivos do sistema:
+As 10 Heurísticas de Usabilidade criadas por Jakob Nielsen em 1994 são princípios gerais de design de interação para avaliar a facilidade de uso de interfaces digitais e os objetivos do sistema:
 
 1. **Visibilidade do status do sistema:** O sistema deve sempre manter os usuários informados sobre o que está acontecendo, por meio de feedback adequado dentro de um tempo razoável.
 
