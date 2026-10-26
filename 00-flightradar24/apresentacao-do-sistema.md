@@ -23,7 +23,7 @@ O sistema avaliado é o **Flightradar24**, um serviço de rastreamento de voos e
 | **Versão do sistema** | Gratuita |
 | **Idioma da interface** | Originalmente em inglês, com possibilidade de tradução automática para o português, dependendo do navegador e de suas configurações. |
 | **Link** | [https://www.flightradar24.com](https://www.flightradar24.com) |
-| **Período de avaliação** | 23/10/2026 a 24/10/2026 |
+| **Período de avaliação** | 24/10/2026 |
 | **Navegador utilizado** | Diferentes navegadores web, conforme a preferência e disponibilidade de cada participante. |
 
 ## 2. Qual é o domínio do sistema?
