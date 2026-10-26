@@ -3,7 +3,7 @@
 ## Avaliação Heurística 
 
 ### Método Utilizado 
-A avaliação Heurística é um método de inspeção de usabiliade no qual especialistas em design e Ux examinam a interface de sistema (site, aplicativo ou software) com o objetivos de identificar problemas de interação. O método foi proposto por jakob Nielsen e Rolf Molich em 1990, é um método rápido e relativamente barato, pois não exige recrutamneto de usuários, laboratórios ou testes complexos. Permite descobrir uma grande variedade de falhas de usabilidade no ínicio do ciclo de desenvolvimento de um produto.
+A avaliação Heurística é um método de inspeção de usabiliade no qual especialistas em design e Ux examinam a interface de sistema (site, aplicativo ou software) com o objetivos de identificar problemas de interação. O método foi proposto por jakob Nielsen e Rolf Molich, é um método rápido e relativamente barato, pois não exige recrutamneto de usuários, laboratórios ou testes complexos. Permite descobrir uma grande variedade de falhas de usabilidade no ínicio do ciclo de desenvolvimento de um produto.
 
 ### Heurística de Nielsen
 As 10 Heurísticas de Usabilidade criadas por Jakob Nielsen em 1994 são princípios gerais de design de interação para avaliar a facilidade de uso de interfaces digitais e os objetivos do sistema:
@@ -20,7 +20,7 @@ As 10 Heurísticas de Usabilidade criadas por Jakob Nielsen em 1994 são princí
 
 6. **Reconhecimento em vez de lembrança:** Minimize a carga de memória do usuário tornando objetos, ações e opções visíveis. O usuário não deve ter que se lembrar de informações de uma parte da interface para outra.
 
-7. **Flexibilidade e eficiência de uso:** Atalhos — ocultos para usuários iniciantes — podem acelerar a interação para o usuário experiente.
+7. **Flexibilidade e eficiência de uso:** Atalhos ocultos para usuários iniciantes podem acelerar a interação para o usuário experiente.
 
 8. **Estética e design minimalista:** As diálogos não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação compete com as unidades relevantes.
 
