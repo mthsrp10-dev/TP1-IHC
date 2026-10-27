@@ -154,7 +154,7 @@ A tabela a seguir apresenta os critérios WCAG 2.2 associados aos problemas iden
 | Perceptível | 1.1 Alternativas em texto | 1.1.1 Conteúdo não textual | A | Confirmado |
 | Perceptível | 1.3 Adaptável | 1.3.1 Informações e relações | A | Confirmado |
 | Perceptível | 1.4 Distinguível | 1.4.3 Contraste mínimo | AA | Confirmado |
-| Operável | 2.1 Acessível por teclado | 2.1.1 Teclado | A | Em parte (zoom por Enter); 42 elementos pendentes |
+| Operável | 2.1 Acessível por teclado | 2.1.1 Teclado | A | Em parte (zoom por Enter);  |
 | Operável | 2.4 Navegável | 2.4.4 Finalidade do link | A | Confirmado |
 | Operável | 2.4 Navegável | 2.4.7 Foco visível | AA | Confirmado |
 | Robusto | 4.1 Compatível | 4.1.2 Nome, função e valor | A |Confirmado (botões) |
