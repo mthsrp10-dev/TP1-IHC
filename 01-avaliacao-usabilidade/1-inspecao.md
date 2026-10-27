@@ -1,33 +1,84 @@
-# Inspeção de Usabilidade
+# Inspeção de Usabilidade — Flightradar24
 
-## Avaliação Heurística 
+Esta página reúne os registros da inspeção de usabilidade do sistema Flightradar24, realizada por meio da Avaliação Heurística de Nielsen.
 
-### Método Utilizado 
-A avaliação Heurística é um método de inspeção de usabiliade no qual especialistas em design e Ux examinam a interface de sistema (site, aplicativo ou software) com o objetivos de identificar problemas de interação. O método foi proposto por jakob Nielsen e Rolf Molich, é um método rápido e relativamente barato, pois não exige recrutamneto de usuários, laboratórios ou testes complexos. Permite descobrir uma grande variedade de falhas de usabilidade no ínicio do ciclo de desenvolvimento de um produto.
+O processo está organizado em quatro etapas: Detecção, Coleção, Discriminação e Relato dos Resultados.
 
-### Heurística de Nielsen
-As 10 Heurísticas de Usabilidade criadas por Jakob Nielsen em 1994 são princípios gerais de design de interação para avaliar a facilidade de uso de interfaces digitais e os objetivos do sistema:
+---
 
-1. **Visibilidade do status do sistema:** O sistema deve sempre manter os usuários informados sobre o que está acontecendo, por meio de feedback adequado dentro de um tempo razoável.
+## Etapa 1 — Detecção
 
-2. **Correspondência entre o sistema e o mundo real:** O sistema deve falar a linguagem do usuário, com palavras, frases e conceitos familiares, seguindo convenções do mundo real.
+Nesta etapa, cada integrante da equipe realiza uma inspeção individual e independente do sistema, identificando possíveis problemas de usabilidade com base nas dez heurísticas de Nielsen.
 
-3. **Controle e liberdade do usuário:** Usuários frequentemente escolhem funções por engano e precisam de uma "saída de emergência" clara para deixar o estado indesejado.
+Cada avaliador deve registrar os problemas encontrados em sua própria tabela.
 
-4. **Consistência e padrões:** Os usuários não devem ter que adivinhar se diferentes palavras, situações ou ações significam a mesma coisa. Siga as convenções da plataforma.
+### Tabela de detecção — Avaliador 1
 
-5. **Prevenção de erros:** Melhor do que boas mensagens de erro é um design cuidadoso que impeça a ocorrência de problemas em primeiro lugar.
 
-6. **Reconhecimento em vez de lembrança:** Minimize a carga de memória do usuário tornando objetos, ações e opções visíveis. O usuário não deve ter que se lembrar de informações de uma parte da interface para outra.
+### Tabela de detecção — Avaliador 2
 
-7. **Flexibilidade e eficiência de uso:** Atalhos ocultos para usuários iniciantes podem acelerar a interação para o usuário experiente.
 
-8. **Estética e design minimalista:** As diálogos não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação compete com as unidades relevantes.
 
-9. **Ajuda aos usuários a reconhecer, diagnosticar e recuperar-se de erros:** As mensagens de erro devem ser expressas em linguagem simples (sem códigos), indicar exatamente o problema e sugerir uma solução construtiva.
+### Tabela de detecção — Avaliador 3
 
-10. **Ajuda e documentação:** Mesmo que seja melhor que o sistema possa ser usado sem documentação, pode ser necessário fornecer ajuda e manuais fáceis de buscar.
 
-### Processo de Inspeção 
 
-### Registros da Avaliação
+---
+
+## Etapa 2 — Coleção
+
+Nesta etapa, os problemas encontrados individualmente são reunidos em uma única tabela.
+
+O objetivo é consolidar os registros, identificar ocorrências repetidas e organizar as discrepâncias para a análise em grupo.
+
+### Tabela de coleção
+
+
+
+---
+
+## Etapa 3 — Discriminação
+
+Nesta etapa, a equipe analisa os problemas consolidados na coleção e verifica se representam defeitos reais de usabilidade ou falsos positivos.
+
+Somente os problemas classificados como defeitos serão encaminhados para o relato final.
+
+### Tabela de discriminação
+
+
+**Classificações utilizadas:**
+- **Defeito:** problema de usabilidade identificado e validado pela equipe.
+- **Falso positivo:** ocorrência que, após análise, não representa um problema de usabilidade.
+
+---
+
+## Etapa 4 — Relato dos Resultados
+
+Esta etapa apresenta os problemas classificados como defeitos após a discriminação.
+
+Cada problema deve ser descrito com sua localização, heurística violada, grau de severidade e sugestão de melhoria.
+
+### Tabela de relato dos resultados
+
+| ID | Localização | Descrição do problema | Heurística violada | Grau de severidade | Sugestão de melhoria |
+|---|---|---|---|---|---|
+| R01 | | | | | |
+| R02 | | | | | |
+| R03 | | | | | |
+
+### Classificação de severidade
+
+| Grau | Classificação | Descrição |
+|---|---|---|
+| 1 | Cosmético | Problema de baixa gravidade, sem necessidade imediata de correção. |
+| 2 | Pequeno | Problema de baixa prioridade que pode ser corrigido. |
+| 3 | Grande | Problema de alta prioridade que deve ser corrigido. |
+| 4 | Catastrófico | Problema muito grave que exige correção urgente. |
+
+---
+
+## Considerações finais
+
+A inspeção de usabilidade do Flightradar24 permite identificar problemas que podem comprometer a eficiência, a compreensão e a facilidade de utilização do sistema.
+
+A organização dos registros nas etapas de detecção, coleção, discriminação e relato possibilita acompanhar todo o processo de avaliação, desde a identificação inicial dos problemas até a definição das melhorias recomendadas.
