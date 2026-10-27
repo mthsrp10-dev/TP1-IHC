@@ -21,8 +21,7 @@ O método segue estas etapas:
 
 As etiquetas usadas, do repertório do método, foram: *Cadê?*, *E agora?*, *O que é isto?*, *Epa!*, *Onde estou?*, *Assim não dá*, *Por que não funciona?*, *Ué, o que houve?*, *Pra mim está bom*, *Desisto*, *Vai de outro jeito*, *Não, obrigado* e *Socorro!*.
 
-Cada ruptura também foi classificada quanto ao **tipo de falha**: [Temporária (o usuário se recupera e continua), Parcial (conclui apenas em parte) ou Completa (não consegue concluir). *Conferir se a classificação usada na disciplina é esta e ajustar.*]
-
+Cada ruptura também foi classificada quanto ao **tipo de falha**: [Temporária (o usuário se recupera e continua), Parcial (conclui apenas em parte) ou Completa (não consegue concluir).
 ## Participantes e tarefas
 
 ### Participantes
