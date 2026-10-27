@@ -370,7 +370,7 @@ A tabela traz as respostas mais representativas. Trechos longos foram abreviados
 
 ### Considerações sobre o Teste de Usabilidade
 
-*[Texto de encerramento: principais achados, tarefas mais problemáticas, o que isso indica sobre a usabilidade do Flightradar24 e limitações do teste, como a conta compartilhada de teste, as sessões por videochamada e os dados em tempo real.]*
+*principais achados, tarefas mais problemáticas, o que isso indica sobre a usabilidade do Flightradar24 e limitações do teste, como a conta compartilhada de teste, as sessões por videochamada e os dados em tempo real.]*
 
 ---
 
