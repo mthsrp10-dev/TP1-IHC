@@ -12,69 +12,16 @@ Nesta etapa, cada integrante da equipe realiza uma inspeção individual e indep
 
 Cada avaliador deve registrar os problemas encontrados em sua própria tabela.
 
-### Tabela de detecção — Avaliador 1
+[📋 Tabela de Detecção — Matheus](https://app.notion.com/p/e86f13c2ac668241a21f81b118b15910?v=929f13c2ac6683739ce60896f51e267e)
 
+[📋 Tabela de Detecção — Ryan](https://app.notion.com/p/402f13c2ac668068bd52fd24dfce4c74?v=b6ef13c2ac66825bb296086e8193e079)
 
-### Tabela de detecção — Avaliador 2
+[📋 Tabela de Detecção — Paulo](https://app.notion.com/p/402f13c2ac66801b9eb2d96c9b905720?v=8adf13c2ac6683439dea08761c06ea31)
 
+[📋 Tabela de Detecção — Brendo](https://app.notion.com/p/402f13c2ac6680588678df25f35e90ef?v=9d7f13c2ac668246a8680834bd72a72d)
 
+[📋 Tabela de Detecção — Rayka](https://app.notion.com/p/402f13c2ac6680ce87bdd1ce71d58cdb?v=92df13c2ac6682b9acd388d3959fd2b2)
 
-### Tabela de detecção — Avaliador 3
-
-
-
----
-
-## Etapa 2 — Coleção
-
-Nesta etapa, os problemas encontrados individualmente são reunidos em uma única tabela.
-
-O objetivo é consolidar os registros, identificar ocorrências repetidas e organizar as discrepâncias para a análise em grupo.
-
-### Tabela de coleção
-
-
+[📋 Tabela de Detecção — Maricleide](https://app.notion.com/p/402f13c2ac6680ce87bdd1ce71d58cdb?v=92df13c2ac6682b9acd388d3959fd2b2)
 
 ---
-
-## Etapa 3 — Discriminação
-
-Nesta etapa, a equipe analisa os problemas consolidados na coleção e verifica se representam defeitos reais de usabilidade ou falsos positivos.
-
-Somente os problemas classificados como defeitos serão encaminhados para o relato final.
-
-### Tabela de discriminação
-
-
-**Classificações utilizadas:**
-- **Defeito:** problema de usabilidade identificado e validado pela equipe.
-- **Falso positivo:** ocorrência que, após análise, não representa um problema de usabilidade.
-
----
-
-## Etapa 4 — Relato dos Resultados
-
-Esta etapa apresenta os problemas classificados como defeitos após a discriminação.
-
-Cada problema deve ser descrito com sua localização, heurística violada, grau de severidade e sugestão de melhoria.
-
-### Tabela de relato dos resultados
-
-
-
-### Classificação de severidade
-
-| Grau | Classificação | Descrição |
-|---|---|---|
-| 1 | Cosmético | Problema de baixa gravidade, sem necessidade imediata de correção. |
-| 2 | Pequeno | Problema de baixa prioridade que pode ser corrigido. |
-| 3 | Grande | Problema de alta prioridade que deve ser corrigido. |
-| 4 | Catastrófico | Problema muito grave que exige correção urgente. |
-
----
-
-## Considerações finais
-
-A inspeção de usabilidade do Flightradar24 permite identificar problemas que podem comprometer a eficiência, a compreensão e a facilidade de utilização do sistema.
-
-A organização dos registros nas etapas de detecção, coleção, discriminação e relato possibilita acompanhar todo o processo de avaliação, desde a identificação inicial dos problemas até a definição das melhorias recomendadas.
