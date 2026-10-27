@@ -1,6 +1,5 @@
 # Avaliação de Comunicabilidade
 
-> **Rascunho.** Os trechos entre `[colchetes]` precisam ser preenchidos ou confirmados pela equipe. Apague esta observação antes da entrega.
 
 Este documento apresenta a Avaliação de Comunicabilidade da versão web gratuita do **Flightradar24**, realizada com o Método de Avaliação de Comunicabilidade (MAC). Ele explica o método, descreve os participantes e as tarefas, apresenta os registros das sessões e as rupturas de comunicação identificadas, e termina com a consolidação das etiquetas e o que elas indicam sobre a comunicação entre o sistema e seus usuários.
 
