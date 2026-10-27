@@ -39,7 +39,7 @@ As avaliações foram desenvolvidas como parte das atividades da disciplina de I
 | Maze | Utilização da ferramenta Maze na avaliação | [Acessar](01-avaliacao-usabilidade/3-maze.md) |
 | Experiência do usuário | Avaliação da UX por meio do UEQ | [Acessar](02-avaliacao-ux/experiencia-de-uso.md) |
 | Acessibilidade | Inspeção com referência às diretrizes WCAG 2.2 | [Acessar](03-avaliacao-acessibilidade/inspecao-de-acessibilidade.md) |
-| Comunicabilidade | Avaliação pelo Método de Avaliação de Comunicabilidade (MAC) | [Acessar](04-avaliacao-comunicabilidade/mac.md) |
+| Comunicabilidade | Avaliação pelo Método de Avaliação de Comunicabilidade (MAC) | [Acessar](04-avaliacao-comunicabilidade) |
 
 ## Organização do repositório
 
