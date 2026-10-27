@@ -63,26 +63,6 @@ As sessões foram gravadas por inteiro (tela e áudio), com os dados pessoais oc
 - [Vídeo do participante U1](https://streamable.com/ekl1ld)
 - [Vídeo do participante U2](#)
 
-
-
-## Etiquetagem das rupturas
-
-A tabela abaixo reúne as rupturas de comunicação identificadas nos vídeos. Cada linha informa o participante, a tarefa, a tela ou elemento envolvido, o que foi observado (com o trecho falado, quando houver), o tipo de falha, a etiqueta e o problema de comunicabilidade que a ruptura revela. O carimbo de tempo de cada ocorrência está na tabela complementar logo depois.
-
-| Part. | Tarefa | Tela/Elemento | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
-|---|---|---|---|---|---|---|
-| U1 | [T7] | [Filtros → companhia aérea] | ["Hã... cadê o botão para voltar a ver todos?"] | [Temporária] | [Cadê?] | [Breve explicação, por exemplo: o site não deixa claro como desfazer o filtro] |
-| U2 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-
-*[Explicar o que a tabela apresenta e discutir os resultados observados.]*
-
-**Carimbos de tempo:**
-
-| Part. | Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
-|---|---|---|---|---|---|
-| U1 | [ ] | [mm:ss] | [ ] | [ ] | [ ] |
-| U2 | [ ] | [mm:ss] | [ ] | [ ] | [ ] |
-
 ## Consolidação das etiquetas
 
 A tabela conta quantas vezes cada etiqueta apareceu para cada participante e quais tarefas foram mais afetadas.
