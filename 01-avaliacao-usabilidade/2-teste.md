@@ -192,14 +192,14 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
 |---|---|---|---|---|
-| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T6 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T7 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T1 — Mapa e detalhes do voo | 18 | ✓ | 0 | O participante concluiu sem dificuldades, procurando o detalhe do voo |
+| T2 — Detalhes do voo | 57 |  !  | 1 | O participante não consegui-o encontrar a altitude do voo |
+| T3 — Chegadas de um aeroporto | 54 | ✓  | 0 | O participante encontrou com facilidade a chegada do voo |
+| T4 — Localizar um voo | 59 |  ! | 1 | O participante soube localizar o voo |
+| T5 — Horário e status do voo | 30 | ✓ | 0 | O participante teve facilidade de encontrar  |
+| T6 — Rota percorrida | 20 | ✓ | 0 | Não teve dificuldade de encontrar o voo |
+| T7 — Filtrar por companhia | 50 | ✓ | 0 | Consegui-o colocar a companhia de sua preferência |
+| T8 — Marcar e reencontrar um voo | 88 |  ✗ | 2 | Não teve sucesso na procura |
 
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
@@ -225,14 +225,14 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
 |---|---|---|---|---|
-| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T6 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T7 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T1 — Mapa e detalhes do voo | 45 |  !  | 1 | teve dificuldade para encontrar  |
+| T2 — Detalhes do voo | 71 | ✓ | 0 | Teve duvida pois não compreendia o site mais teve êxito na sua procura |
+| T3 — Chegadas de um aeroporto | 90 | !  | 1 | Teve dificuldade de acahar |
+| T4 — Localizar um voo |  35 | ✓  | 0 | teve êxito |
+| T5 — Horário e status do voo | 48 |  ! | 1 | Não consegui-o achar o voo |
+| T6 — Rota percorrida | 45 | ✓  | 0 | Teve êxito na sua procura |
+| T7 — Filtrar por companhia | 40 |  ✗ | 2 | Desistiu por duvida  |
+| T8 — Marcar e reencontrar um voo | 77 |  ✗ | 2 | Não consegui-o guardar e procurar novamente] |
 
  
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
@@ -259,14 +259,14 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
 |---|---|---|---|---|
-| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T6 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T7 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T1 — Mapa e detalhes do voo | 47  | ✓  | 0  | Teve êxito na procura |
+| T2 — Detalhes do voo | 60 |  !  | 1 |Teve duvida pela informação fornecida  |
+| T3 — Chegadas de um aeroporto | 67 |  ✗ |  1 | Não consegui achar a forma correta de procura de voo para Manaus  |
+| T4 — Localizar um voo | 45 | ✓ |  0 | Teve facilidade |
+| T5 — Horário e status do voo | 93 | ✓  | 0 | Demorou para Achar mais conseguio encontrar |
+| T6 — Rota percorrida | 60 | ✓  |  0 | Consegui-o encontrar com facilidade |
+| T7 — Filtrar por companhia | 80 |  !  |  1 | Não consegui-o filtra certo  |
+| T8 — Marcar e reencontrar um voo | 47 |  ✗ | 2 | Não fez de forma correta  |
 
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
@@ -275,14 +275,14 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
 |---|---|---|---|---|
-| T1 — Mapa e detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T2 — Detalhes do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T3 — Chegadas de um aeroporto | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T4 — Localizar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T5 — Horário e status do voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T6 — Rota percorrida | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T7 — Filtrar por companhia | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
-| T8 — Marcar e reencontrar um voo | [ ] | [✓ / ! / ✗] | [ ] | [ ] |
+| T1 — Mapa e detalhes do voo | 14 |  ✗  | 1 | Não consegui-o dizer o detalhe do voo  |
+| T2 — Detalhes do voo | 48 |  !  | 1 | Teve muita dificuldade para encontrar  |
+| T3 — Chegadas de um aeroporto | 25 | ✗ | 2 | Não teve êxito na procura  |
+| T4 — Localizar um voo | 21 | ✓  | 0 | Não teve muita dificuldade para encontrar |
+| T5 — Horário e status do voo | 185 | ✓ | 0 | Demorou mais consegui-o achar  |
+| T6 — Rota percorrida | 14 | ✓  |  0 | Não teve muita dificuldade para encontrar |
+| T7 — Filtrar por companhia | 41 |  ✗ | 2 | Por não ter familiaridade com a plataforma ele desistiu|
+| T8 — Marcar e reencontrar um voo | 16 | ✗ | 2 | Não consegui-o encontrar a forma de guardar e reencontrar o voo |
 
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
@@ -310,6 +310,10 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 |---|---|---|---|---|---|
 | P01 | [ ] | [ ] | [ ] | [ ] | [ ] |
 | P02 | [ ] | [ ] | [ ] | [ ] | [ ] |
+| P02 | [ ] | [ ] | [ ] | [ ] | [ ] |
+| P02 | [ ] | [ ] | [ ] | [ ] | [ ] |
+| P02 | [ ] | [ ] | [ ] | [ ] | [ ] |
+
 
 *[Explicar o que a tabela mostra e quais participantes tiveram mais dificuldade.]*
 
