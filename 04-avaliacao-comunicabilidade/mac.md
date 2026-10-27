@@ -31,8 +31,8 @@ O MAC foi aplicado com **2 participantes de perfis diferentes**, identificados c
 
 | Participante | Perfil | Experiência com tecnologia | Experiência com aviação |
 |---|---|---|---|
-| U1 | [Faixa etária e ocupação em termos gerais] | [ ] | [ ] |
-| U2 | [Faixa etária e ocupação em termos gerais] | [ ] | [ ] |
+| U1 | [44 Anos, Cozinheira] | [Basico] | [Nenhum] |
+| U2 | [18 anos, Estudante] | [NIvel de usuario] | [Nenhum] |
 
 
 ### Tarefas
