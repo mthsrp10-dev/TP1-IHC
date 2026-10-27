@@ -11,9 +11,9 @@
 - Brendo de Castro
 - Rayka Oliveira
 - Paulo Davi
-- Maricleide
+- Maricleide Sampaio
 - Ryan Salvador
-- 
+  
 
 ## Apresentação do sistema
 
