@@ -60,11 +60,7 @@ Cada problema deve ser descrito com sua localização, heurística violada, grau
 
 ### Tabela de relato dos resultados
 
-| ID | Localização | Descrição do problema | Heurística violada | Grau de severidade | Sugestão de melhoria |
-|---|---|---|---|---|---|
-| R01 | | | | | |
-| R02 | | | | | |
-| R03 | | | | | |
+
 
 ### Classificação de severidade
 
