@@ -34,7 +34,6 @@ O MAC foi aplicado com **2 participantes de perfis diferentes**, identificados c
 | U1 | [Faixa etária e ocupação em termos gerais] | [ ] | [ ] |
 | U2 | [Faixa etária e ocupação em termos gerais] | [ ] | [ ] |
 
-*[Explicar em uma frase por que os perfis são diferentes. Não incluir nomes nem dados que identifiquem os participantes.]*
 
 ### Tarefas
 
@@ -55,7 +54,7 @@ Foram usadas **10 tarefas** voltadas à compreensão das mensagens e informaçõ
 
 Os participantes foram orientados a pensar em voz alta, e o aplicador não indicou como executar as tarefas. *[Se alguma tarefa foi alterada ou substituída depois da conferência na versão web, registrar aqui.]*
 
-*[Texto de encerramento da seção: como as sessões foram conduzidas, por exemplo, por videochamada ou presencialmente, e a duração aproximada.]*
+
 
 ## Registro das sessões
 
@@ -64,7 +63,7 @@ As sessões foram gravadas por inteiro (tela e áudio), com os dados pessoais oc
 - [Vídeo do participante U1](#)
 - [Vídeo do participante U2](#)
 
-*[Informar a ferramenta usada na gravação e a duração de cada vídeo.]*
+
 
 ## Etiquetagem das rupturas
 
