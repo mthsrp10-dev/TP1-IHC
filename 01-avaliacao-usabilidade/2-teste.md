@@ -266,6 +266,7 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 | T6 — Rota percorrida | 60 | ✓  |  0 | Consegui-o encontrar com facilidade |
 | T7 — Filtrar por companhia | 80 |  !  |  1 | Não consegui-o filtra certo  |
 | T8 — Marcar e reencontrar um voo | 47 |  ✗ | 2 | Não fez de forma correta  |
+
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
 
@@ -281,6 +282,7 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 | T6 — Rota percorrida | 14 | ✓  |  0 | Não teve muita dificuldade para encontrar |
 | T7 — Filtrar por companhia | 41 |  ✗ | 2 | Por não ter familiaridade com a plataforma ele desistiu|
 | T8 — Marcar e reencontrar um voo | 16 | ✗ | 2 | Não consegui-o encontrar a forma de guardar e reencontrar o voo |
+
 *Legenda: ✓ sucesso · ! com dificuldade · ✗ insucesso.*
 
 
