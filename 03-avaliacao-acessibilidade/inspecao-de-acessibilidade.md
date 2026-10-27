@@ -48,9 +48,9 @@ A ferramenta WAVE foi utilizada para verificar a presença de problemas relacion
 | Elementos ARIA | 68 |
 | Pontuação AIM | 6,3/10 |
 
-![Resultado da análise do WAVE](imagens/wave-resultado.png)
+![Resultado da análise do WAVE](https://github.com/mthsrp10-dev/TP1-IHC/blob/main/03-avaliacao-acessibilidade/imagens/wave1.jpeg?raw=true)
 
-*Figura 1 — Resultado da análise do WAVE. [Inserir print da própria equipe]*
+Figura 1 — Resultado da análise do WAVE. 
 
 **Google Lighthouse (PageSpeed Insights)**
 
@@ -65,9 +65,9 @@ O Lighthouse foi utilizado para complementar a avaliação automatizada, verific
 
 A avaliação de acessibilidade identificou problemas relacionados a rótulos de formulários, nomes acessíveis de links e contraste insuficiente entre elementos visuais.
 
-![Resultado da análise do Lighthouse](imagens/lighthouse-resultado.png)
+![Resultado da análise do Lighthouse](https://github.com/mthsrp10-dev/TP1-IHC/blob/main/03-avaliacao-acessibilidade/imagens/farol.jpeg?raw=true)
 
-*Figura 2 — Resultado da análise do Lighthouse. [Inserir print da própria equipe]*
+Figura 2 — Resultado da análise do Lighthouse. 
 
 **Accessibility Insights for Web**
 
@@ -75,9 +75,9 @@ A ferramenta Accessibility Insights for Web (versão 2.49.0, com axe-core 4.11.3
 
 O relatório apresentou quatro falhas automatizadas, incluindo problemas de contraste, identificação de links e acessibilidade de região de rolagem. O recurso Tab stops também sinalizou 42 elementos que necessitavam de verificação quanto à possibilidade de acesso pelo teclado. O relatório marca esses elementos como "detectados automaticamente, precisam de revisão".
 
-![Resultado do FastPass do Accessibility Insights](imagens/fastpass-resultado.png)
+![Resultado do FastPass do Accessibility Insights](https://github.com/mthsrp10-dev/TP1-IHC/blob/main/03-avaliacao-acessibilidade/imagens/telafl24.png?raw=true)
 
-*Figura 3 — Resultado do FastPass do Accessibility Insights. [Inserir print da própria equipe]*
+Figura 3 — Resultado do FastPass do Accessibility Insights. 
 
 **Teste manual de navegação por teclado**
 
@@ -177,7 +177,6 @@ Os resultados reforçam a importância de combinar diferentes métodos de avalia
 
 Conclui-se que, apesar de apresentar recursos de acessibilidade e obter uma pontuação de 88/100 no Lighthouse, o Flightradar24 possui aspectos que necessitam de investigação e possíveis melhorias para proporcionar uma experiência mais acessível.
 
-[Opcional: relacionar o desempenho de 35/100 do Lighthouse ao comentário do participante P02 no teste de usabilidade ("bem travadinho"), e o idioma em inglês da página aos comentários de P04, P05 e P06.]
 
 **Limitações:** os resultados dependem das ferramentas utilizadas e do estado da página no momento da análise, e as ferramentas apresentaram diferenças entre si; o teste manual se restringiu ao controle de zoom do mapa; e nenhum teste foi feito com pessoas com deficiência.
 
