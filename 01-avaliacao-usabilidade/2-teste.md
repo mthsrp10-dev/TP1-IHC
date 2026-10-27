@@ -307,8 +307,15 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso ✗ | Tempo total (s) | Total de erros |
 |---|---|---|---|---|---|
-| P01 | [ ] | [ ] | [ ] | [ ] | [ ] |
-| P02 | [ ] | [ ] | [ ] | [ ] | [ ] |
+| P01 | 7 | 0 | 1 | 263 | 3 |
+| P02 | 5 | 2 | 1 | 376 | 4 |
+| P03 | 1 | 5 | 2 | 670 | 11|
+| P04 | 3 | 2 | 2 | 451 | 7 |
+| P05 | 3 | 3 | 2 | 347 | 9 |
+| P06 | 4 | 2 | 2 | 499 | 5 |
+| P07 | 3 | 1 | 4 | 364 | 8 |
+| P08 | 2 | 4 | 2 |1216 | 15|
+
 
 *[Explicar o que a tabela mostra e quais participantes tiveram mais dificuldade.]*
 
@@ -316,14 +323,14 @@ Uma tabela para cada participante, com os dados anotados na sessão.
 
 | Tarefa | TSR — Taxa de sucesso (%) | TTR — Tempo médio da tarefa (s) |
 |---|---|---|
-| T1 — Mapa e detalhes do voo | [ ] | [ ] |
-| T2 — Detalhes do voo | [ ] | [ ] |
-| T3 — Chegadas de um aeroporto | [ ] | [ ] |
-| T4 — Localizar um voo | [ ] | [ ] |
-| T5 — Horário e status do voo | [ ] | [ ] |
-| T7 — Rota percorrida | [ ] | [ ] |
-| T6 — Filtrar por companhia | [ ] | [ ] |
-| T8 — Marcar e reencontrar um voo | [ ] | [ ] |
+| T1 — Mapa e detalhes do voo | 37,5% | 33,0 |
+| T2 — Detalhes do voo | 25,0% | 61,8 |
+| T3 — Chegadas de um aeroporto | 50,0% | 70,8 |
+| T4 — Localizar um voo | 62,5% | 61,1 |
+| T5 — Horário e status do voo | 62,5% | 85,6 |
+| T6 — Rota percorrida | 87,5%| 57,8 |
+| T7 — Filtrar por companhia | 25,0%| 78,9 |
+| T8 — Marcar e reencontrar um voo | 0,0% | 74,4 |
 
 *[Explicar como a TSR foi calculada (participantes com sucesso divididos pelo total, vezes 100) e se o resultado "com dificuldade" foi ou não contado como sucesso. Explicar também como o tempo médio foi calculado, e quais tarefas foram as mais difíceis.]*
 
