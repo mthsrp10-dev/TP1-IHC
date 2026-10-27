@@ -33,7 +33,7 @@ As avaliações foram desenvolvidas como parte das atividades da disciplina de I
 
 | Etapa | Descrição | Documentação |
 |---|---|---|
-| Apresentação do sistema | Características, funcionalidades e escopo do sistema | [Acessar](00-nome-do-sistema/apresentacao-do-sistema.md) |
+| Apresentação do sistema | Características, funcionalidades e escopo do sistema | [Acessar](00-flightradar24/apresentacao-do-sistema.md) |
 | Inspeção de usabilidade | Avaliação baseada nas heurísticas de Nielsen | [Acessar](01-avaliacao-usabilidade/1-inspecao.md) |
 | Teste de usabilidade | Planejamento, execução e análise dos testes com participantes | [Acessar](01-avaliacao-usabilidade/2-teste.md) |
 | Maze | Utilização da ferramenta Maze na avaliação | [Acessar](01-avaliacao-usabilidade/3-maze.md) |
