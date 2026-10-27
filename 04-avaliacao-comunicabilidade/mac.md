@@ -60,7 +60,7 @@ Os participantes foram orientados a pensar em voz alta, e o aplicador não indic
 
 As sessões foram gravadas por inteiro (tela e áudio), com os dados pessoais ocultados, e publicadas no YouTube como **vídeos não listados**. Os links permitem a conferência da etiquetagem pelo professor.
 
-- [Vídeo do participante U1](#)
+- [Vídeo do participante U1](https://streamable.com/ekl1ld)
 - [Vídeo do participante U2](#)
 
 
@@ -89,27 +89,27 @@ A tabela conta quantas vezes cada etiqueta apareceu para cada participante e qua
 
 | Etiqueta | Ocorrências (U1) | Ocorrências (U2) | Total | Tarefas mais afetadas |
 |---|---|---|---|---|
-| Cadê? | [ ] | [ ] | [ ] | [ ] |
-| E agora? | [ ] | [ ] | [ ] | [ ] |
-| O que é isto? | [ ] | [ ] | [ ] | [ ] |
-| Epa! | [ ] | [ ] | [ ] | [ ] |
-| Onde estou? | [ ] | [ ] | [ ] | [ ] |
-| Assim não dá | [ ] | [ ] | [ ] | [ ] |
+| Cadê? | [1] | [ ] | [ ] | [ ] |
+| E agora? | [1] | [ ] | [ ] | [ ] |
+| O que é isto? | [4] | [ ] | [ ] | [ ] |
+| Epa! | [0] | [ ] | [ ] | [ ] |
+| Onde estou? | [0] | [ ] | [ ] | [ ] |
+| Assim não dá | [0] | [ ] | [ ] | [ ] |
 | Por que não funciona? | [ ] | [ ] | [ ] | [ ] |
-| Ué, o que houve? | [ ] | [ ] | [ ] | [ ] |
-| Pra mim está bom | [ ] | [ ] | [ ] | [ ] |
-| Desisto | [ ] | [ ] | [ ] | [ ] |
-| Vai de outro jeito | [ ] | [ ] | [ ] | [ ] |
-| Não, obrigado | [ ] | [ ] | [ ] | [ ] |
-| Socorro! | [ ] | [ ] | [ ] | [ ] |
-| **Total** | [ ] | [ ] | [ ] | |
+| Ué, o que houve? | [0] | [ ] | [ ] | [ ] |
+| Pra mim está bom | [2] | [ ] | [ ] | [ ] |
+| Desisto | [1] | [ ] | [ ] | [ ] |
+| Vai de outro jeito | [0] | [ ] | [ ] | [ ] |
+| Não, obrigado | [0] | [ ] | [ ] | [ ] |
+| Socorro! | [0] | [ ] | [ ] | [ ] |
+| **Total** | [9] | [ ] | [ ] | |
 
-*[Apresentar os principais resultados: quais etiquetas apareceram com maior frequência, quais tarefas apresentaram mais rupturas e o que isso indica sobre a comunicação entre o sistema e os usuários. Comparar os dois participantes e relacionar com as respostas do teste de usabilidade, por exemplo, o idioma do site e os termos técnicos de aviação.]*
+
 
 ---
 
 ## Considerações
 
-[Texto de encerramento: o que a avaliação revelou sobre como o Flightradar24 se comunica com os usuários, quais rupturas foram mais graves, e limitações do método aplicado, como o número de participantes e a condução das sessões.]
+O flightradar24 possui erros de comunicabilidade entre o usuario e o design, sendo possivel observar diversos erros entre a identificação de uma informação e o objetivo em si
 
 **Navegação:** [Voltar ao README](../README.md) · [Acessibilidade](../03-avaliacao-acessibilidade/inspecao-de-acessibilidade.md) · [Apresentação do sistema](../00-flightradar24/apresentacao-do-sistema.md)
