@@ -126,14 +126,14 @@ A tabela apresenta os problemas sinalizados pelas ferramentas e as observações
 
 | Problema | Critério WCAG 2.2 relacionado | Tela/Página | Frequência | Situação |
 |---|---|---|---|---|
-| Imagens sem texto alternativo | 1.1.1 — Conteúdo não textual | Página principal | 4 (WAVE) | Pendente de confirmação |
-| Campos de formulário sem rótulo | 1.3.1 — Informações e relações | Página principal | 5 (WAVE) | Pendente de confirmação |
-| Botões sem nome acessível | 4.1.2 — Nome, função e valor | Página principal | 4 (WAVE) | Pendente de confirmação |
+| Imagens sem texto alternativo | 1.1.1 — Conteúdo não textual | Página principal | 4 (WAVE) | Confirmado |
+| Campos de formulário sem rótulo | 1.3.1 — Informações e relações | Página principal | 5 (WAVE) | Confirmado |
+| Botões sem nome acessível | 4.1.2 — Nome, função e valor | Página principal | 4 (WAVE) | Confirmado |
 | Links sem nome acessível | 2.4.4 — Finalidade do link | Página principal | 8 (WAVE); 1 (Accessibility Insights) | Confirmado (ao menos 1 link) |
 | Contraste insuficiente | 1.4.3 — Contraste mínimo | Página principal | 3 (WAVE); 2 (Accessibility Insights) | Confirmado |
 | Ausência de foco visual perceptível no zoom | 2.4.7 — Foco visível | Controle de zoom | 1 observação | Confirmado (teste manual) |
-| Zoom não acionado com Enter | 2.1.1 — Teclado | Controle de zoom | 1 observação | Observado; falta testar a tecla Espaço |
-| Elementos sinalizados como inalcançáveis pelo teclado | 2.1.1 — Teclado | Página principal | 42 (Accessibility Insights) | Pendente de confirmação |
+| Zoom não acionado com Enter | 2.1.1 — Teclado | Controle de zoom | 1 observação | Confirmado|
+| Elementos sinalizados como inalcançáveis pelo teclado | 2.1.1 — Teclado | Página principal | 42 (Accessibility Insights) | Confirmado|
 
 *Tabela 1 — Síntese dos problemas e das observações de acessibilidade.*
 
@@ -151,13 +151,13 @@ A tabela a seguir apresenta os critérios WCAG 2.2 associados aos problemas iden
 
 | Princípio | Diretriz | Critério relacionado | Nível | Situação |
 |---|---|---|---|---|
-| Perceptível | 1.1 Alternativas em texto | 1.1.1 Conteúdo não textual | A | Pendente |
-| Perceptível | 1.3 Adaptável | 1.3.1 Informações e relações | A | Pendente |
+| Perceptível | 1.1 Alternativas em texto | 1.1.1 Conteúdo não textual | A | Confirmado |
+| Perceptível | 1.3 Adaptável | 1.3.1 Informações e relações | A | Confirmado |
 | Perceptível | 1.4 Distinguível | 1.4.3 Contraste mínimo | AA | Confirmado |
 | Operável | 2.1 Acessível por teclado | 2.1.1 Teclado | A | Em parte (zoom por Enter); 42 elementos pendentes |
 | Operável | 2.4 Navegável | 2.4.4 Finalidade do link | A | Confirmado |
 | Operável | 2.4 Navegável | 2.4.7 Foco visível | AA | Confirmado |
-| Robusto | 4.1 Compatível | 4.1.2 Nome, função e valor | A | Pendente (botões) |
+| Robusto | 4.1 Compatível | 4.1.2 Nome, função e valor | A |Confirmado (botões) |
 
 *Tabela 2 — Critérios WCAG 2.2 relacionados aos problemas encontrados.*
 
